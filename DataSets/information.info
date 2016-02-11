@@ -1,0 +1,5 @@
+/* Welcome!
+This program assumes that the data sets given are of the following format:
+attribute1,.....,attribute_n,answer
+If the program is given any other format there will be an execution error or
+the program will not produce the desired results */
